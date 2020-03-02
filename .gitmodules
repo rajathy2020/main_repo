@@ -13,3 +13,6 @@
 [submodule "attach7"]
 	path = attach7
 	url = git@github.com:rajathy2020/second_repo.git
+[submodule "domain_model"]
+	path = domain_model
+	url = git@github.com:rajathy2020/second_repo.git
