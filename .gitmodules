@@ -7,3 +7,6 @@
 [submodule "attach5"]
 	path = attach5
 	url = git@github.com:rajathy2020/second_repo.git
+[submodule "attach6"]
+	path = attach6
+	url = git@github.com:rajathy2020/second_repo.git
