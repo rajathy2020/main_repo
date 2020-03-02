@@ -19,3 +19,6 @@
 [submodule "domain_model1"]
 	path = domain_model1
 	url = https://github.com/rajathy2020/second_repo.git
+[submodule "domain_model2"]
+	path = domain_model2
+	url = https://6228a2e824c45f4ea10db728913398786aaec7b0@github.com/rajathy2020/second_repo.git
